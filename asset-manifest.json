@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/react-mobile-100vh/static/css/main.827832e3.chunk.css",
-    "main.js": "/react-mobile-100vh/static/js/main.b801aaa9.chunk.js",
-    "main.js.map": "/react-mobile-100vh/static/js/main.b801aaa9.chunk.js.map",
+    "main.js": "/react-mobile-100vh/static/js/main.d20e70d7.chunk.js",
+    "main.js.map": "/react-mobile-100vh/static/js/main.d20e70d7.chunk.js.map",
     "runtime-main.js": "/react-mobile-100vh/static/js/runtime-main.15ccd8c9.js",
     "runtime-main.js.map": "/react-mobile-100vh/static/js/runtime-main.15ccd8c9.js.map",
     "static/js/2.d3f92c4a.chunk.js": "/react-mobile-100vh/static/js/2.d3f92c4a.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.15ccd8c9.js",
     "static/js/2.d3f92c4a.chunk.js",
     "static/css/main.827832e3.chunk.css",
-    "static/js/main.b801aaa9.chunk.js"
+    "static/js/main.d20e70d7.chunk.js"
   ]
 }

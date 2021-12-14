@@ -1,0 +1,46 @@
+.wrapper {
+  background: teal;
+}
+
+.innerWrapper {
+  padding-left: 24px;
+  padding-right: 24px;
+}
+
+.menu {
+  height: 60px;
+  background: rgb(5, 72, 218);
+  color: #fff;
+  font-size: 18px;
+  padding-left: 24px;
+  padding-right: 24px;
+  display: flex;
+  align-items: center;
+}
+
+.title {
+  margin-bottom: 40px;
+}
+
+.button {
+  width: 160px;
+  height: 40px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: none;
+  background: rgb(5, 72, 218);
+  font-size: 18px;
+  color: #fff;
+  font-weight: 500;
+  text-transform: uppercase;
+}
+
+.cookie {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  height: 100px;
+  width: 100%;
+  background: #fff;
+}

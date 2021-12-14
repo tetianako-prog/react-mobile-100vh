@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "/react-mobile-100vh/static/css/main.a2b48813.chunk.css",
-    "main.js": "/react-mobile-100vh/static/js/main.59e5f5e3.chunk.js",
-    "main.js.map": "/react-mobile-100vh/static/js/main.59e5f5e3.chunk.js.map",
+    "main.js": "/react-mobile-100vh/static/js/main.7fe12fe2.chunk.js",
+    "main.js.map": "/react-mobile-100vh/static/js/main.7fe12fe2.chunk.js.map",
     "runtime-main.js": "/react-mobile-100vh/static/js/runtime-main.15ccd8c9.js",
     "runtime-main.js.map": "/react-mobile-100vh/static/js/runtime-main.15ccd8c9.js.map",
-    "static/js/2.9bee9d39.chunk.js": "/react-mobile-100vh/static/js/2.9bee9d39.chunk.js",
-    "static/js/2.9bee9d39.chunk.js.map": "/react-mobile-100vh/static/js/2.9bee9d39.chunk.js.map",
+    "static/js/2.4cdafede.chunk.js": "/react-mobile-100vh/static/js/2.4cdafede.chunk.js",
+    "static/js/2.4cdafede.chunk.js.map": "/react-mobile-100vh/static/js/2.4cdafede.chunk.js.map",
     "index.html": "/react-mobile-100vh/index.html",
     "static/css/main.a2b48813.chunk.css.map": "/react-mobile-100vh/static/css/main.a2b48813.chunk.css.map",
-    "static/js/2.9bee9d39.chunk.js.LICENSE.txt": "/react-mobile-100vh/static/js/2.9bee9d39.chunk.js.LICENSE.txt"
+    "static/js/2.4cdafede.chunk.js.LICENSE.txt": "/react-mobile-100vh/static/js/2.4cdafede.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.15ccd8c9.js",
-    "static/js/2.9bee9d39.chunk.js",
+    "static/js/2.4cdafede.chunk.js",
     "static/css/main.a2b48813.chunk.css",
-    "static/js/main.59e5f5e3.chunk.js"
+    "static/js/main.7fe12fe2.chunk.js"
   ]
 }
